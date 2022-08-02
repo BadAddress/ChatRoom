@@ -17,7 +17,7 @@ Chat是一款集上传下载、多人聊天的一款桌面应用。
 - [Go](https://golang.google.cn/)
 - [Redis](https://redis.io/)
 
-服务器：
+功能介绍：
 - 🕹多人聊天
 - 🔔 传输任务完成通知提醒
 - ✨ 支持拖拽文件上传
