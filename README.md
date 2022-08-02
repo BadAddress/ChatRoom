@@ -25,10 +25,10 @@ Chat是一款集上传下载、多人聊天的一款桌面应用。
 
 ## 🖥 应用界面
 #### 登录
-   ![登录](src/assets/login.png)
+   ![登录](Client/src/assets/login.png)
 #### 注册
-  ![注册](src/assets/register.png)
+  ![注册](Client/src/assets/register.png)
 #### 主界面
-  ![主界面](src/assets/main.png) 
+  ![主界面](Client/src/assets/main.png) 
   
 
